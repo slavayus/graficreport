@@ -1,8 +1,8 @@
 package com.ifmo.graficreport;
 
-import static org.jocl.CL.*;
-
 import org.jocl.*;
+
+import static org.jocl.CL.*;
 
 public class JOCMultiDeviceMultiply {
     /**
